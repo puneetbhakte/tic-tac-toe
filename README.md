@@ -18,8 +18,9 @@ The Tic-Tac-Toe App is a simple and classic game built in Android Studio. It all
 - Use reset button to play from start
 
 ## Screenshots
+![WhatsApp Image 2023-08-14 at 8 28 05 PM](https://github.com/puneetbhakte/tic-tac-toe/assets/96128250/38d64d31-1fd0-42f7-a3dc-b414ad9f607d)
 
-[If you have multiple screenshots showcasing different aspects of your app, include them here.]
+![WhatsApp Image 2023-08-14 at 8 27 44 PM](https://github.com/puneetbhakte/tic-tac-toe/assets/96128250/4508d6b4-190b-4858-bfa4-2695bf13b53c)
 
 ## Technologies Used
 
