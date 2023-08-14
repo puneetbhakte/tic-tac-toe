@@ -1,6 +1,6 @@
 # Tic-Tac-Toe App
 
-![Tic-Tac-Toe Screenshot](screenshot.png)
+![WhatsApp Image 2023-08-14 at 8 25 15 PM](https://github.com/puneetbhakte/tic-tac-toe/assets/96128250/d0520a43-8296-4721-9f5c-a3b52a39ad54)
 
 ## Description
 
